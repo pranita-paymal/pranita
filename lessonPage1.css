@@ -1,0 +1,14 @@
+
+.csslessons{
+    border-style: groove;
+}
+.csslessons h1{
+   padding-left: 20px; 
+   font-style: italic;
+   color: deeppink;
+}
+.btn-wrapper{
+    
+    width: 20%;
+    color: gray;
+}
